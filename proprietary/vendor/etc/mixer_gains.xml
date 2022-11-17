@@ -1275,6 +1275,8 @@
     </path>
 
     <path name="gain-listenback-mic">
+        <ctl name="VTS DMIC GAIN MODE0" value="6168" />
+        <ctl name="VTS CONTROL DMIC AUD GAIN0" value="0" />
     </path>
 
     <path name="gain-listenback-usb-headset-mic">
@@ -1284,6 +1286,11 @@
     </path>
 
     <path name="gain-listenback-bt-sco-headset-in">
+    </path>
+
+    <path name="gain-listenback-headphone-mic">
+        <ctl name="VTS DMIC GAIN MODE0" value="6168" />
+        <ctl name="VTS CONTROL DMIC AUD GAIN0" value="0" />
     </path>
 
     <path name="gain-recording-mic">
