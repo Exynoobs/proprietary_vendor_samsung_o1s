@@ -76,7 +76,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/o1s/proprietary/vendor/firmware/listenbackeffect.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/listenbackeffect.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/mfc/mfc_fw_flash.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc/mfc_fw_flash.bin \
     vendor/samsung/o1s/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
-    vendor/samsung/o1s/proprietary/vendor/firmware/nfc/libsn100u_fw.so:$(TARGET_COPY_OUT_VENDOR)/firmware/nfc/libsn100u_fw.so \
     vendor/samsung/o1s/proprietary/vendor/firmware/nvram.txt_1rh_es43_b1:$(TARGET_COPY_OUT_VENDOR)/firmware/nvram.txt_1rh_es43_b1 \
     vendor/samsung/o1s/proprietary/vendor/firmware/nvram.txt_CS01_semco_b1:$(TARGET_COPY_OUT_VENDOR)/firmware/nvram.txt_CS01_semco_b1 \
     vendor/samsung/o1s/proprietary/vendor/firmware/rxse.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/rxse.bin \
