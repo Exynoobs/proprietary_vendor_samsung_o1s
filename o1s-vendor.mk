@@ -55,7 +55,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/o1s/proprietary/vendor/lib/hw/camera.exynos2100.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos2100.so \
     vendor/samsung/o1s/proprietary/vendor/lib/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera3.so \
     vendor/samsung/o1s/proprietary/vendor/lib/libexynoscamera_vpl_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera_vpl_plugin.so \
-    vendor/samsung/o1s/proprietary/vendor/lib/libexynosdisplay.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynosdisplay.so \
     vendor/samsung/o1s/proprietary/vendor/lib/librecordalive.so:$(TARGET_COPY_OUT_VENDOR)/lib/librecordalive.so \
     vendor/samsung/o1s/proprietary/vendor/lib/libtriplecam_image_optical_zoom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtriplecam_image_optical_zoom.so \
     vendor/samsung/o1s/proprietary/vendor/lib/libtriplecam_video_optical_zoom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtriplecam_video_optical_zoom.so \
@@ -69,7 +68,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/o1s/proprietary/vendor/lib64/hw/camera.exynos2100.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos2100.so \
     vendor/samsung/o1s/proprietary/vendor/lib64/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera3.so \
     vendor/samsung/o1s/proprietary/vendor/lib64/libexynoscamera_vpl_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera_vpl_plugin.so \
-    vendor/samsung/o1s/proprietary/vendor/lib64/libexynosdisplay.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynosdisplay.so \
     vendor/samsung/o1s/proprietary/vendor/lib64/libtriplecam_image_optical_zoom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtriplecam_image_optical_zoom.so \
     vendor/samsung/o1s/proprietary/vendor/lib64/libtriplecam_video_optical_zoom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtriplecam_video_optical_zoom.so \
     vendor/samsung/o1s/proprietary/vendor/lib64/libtriplecapture_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtriplecapture_interface.so \
